@@ -13,7 +13,7 @@ A program to automate Excel workbooks that are used to manage activities in quar
 ### How does this activities works? ⚙️
 1. A template was send to education coordinator of the school, and he has to create one workbook for each class
 2. He needed to fill it with school name, class, and students name.
-3. Teachers fill this worksheet during the week and the coordinator has to create another worksheet for the next week, in the same workbook, for each class, every week
+3. Teachers fill this worksheet during the week and the coordinator has to create another worksheet for the next week, in the same workbook, for each class, every week<br>
 So, he comes to me asking for help, and I created this program to help him.
 <hr>
 
