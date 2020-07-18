@@ -1,5 +1,5 @@
 <div align="center">	
-		<img src="/.github/autotasks.jpg" alt="autotasks"/>
+		<img src="./.github/autotasks.jpg" alt="autotasks"/>
 </div>
 
 <div align="center">
