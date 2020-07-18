@@ -45,3 +45,5 @@ I created a [video in Portuguese-BR]() that I show this program and another one 
 
 by Felipe Borges<br>
 [LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
+With great help of Andre Pinto<br>
+[LinkedIn](https://www.linkedin.com/in/pinto-andre/) | [GitHub](https://github.com/andre6293)<br>
