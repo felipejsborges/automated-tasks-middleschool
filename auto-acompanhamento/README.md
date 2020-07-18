@@ -20,7 +20,7 @@ So, he comes to me asking for help, and I created this program to help him.
 ### What does this program do? 🤖
 - Create a workbook for each class, based on the template
 - Copy data of our intern database to fill the activities workbook
-- Generate a worksheet in every workbook for the week we want
+- Generate a worksheet in every workbook for the week we want<br>
 Obs.: I made it very quickly because I already have a program for a similar task. [Check it here!](../auto-conselho)
 <hr>
 
