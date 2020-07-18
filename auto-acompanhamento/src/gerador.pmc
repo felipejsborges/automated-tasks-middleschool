@@ -1,0 +1,18 @@
+﻿[PMC Code v5.0.5]|F7||1|Screen,2,Fast,0,1,Input,-1,-1,1|1|Macro1
+Groups=Start:1
+1|[Assign Variable]|classesIniciais := ["1º ANO A", "1º ANO B", "1º ANO C", "2º ANO A", "2º ANO B", "2º ANO C", "3º ANO A", "3º ANO B", "3º ANO C", "4º ANO A", "4º ANO B", "4º ANO C", "5º ANO A", "5º ANO B", "5º ANO C"]|1|0|Variable|Expression||||
+2|[Assign Variable]|classesFinais := ["6º ANO A", "6º ANO B", "6º ANO C", "7º ANO A", "7º ANO B", "7º ANO C", "8º ANO A", "8º ANO B", "8º ANO C", "9º ANO A", "9º ANO B", "9º ANO C"]|1|0|Variable|Expression||||
+3|[MsgBox]|A seguir`, selecione a planilha MODELO - ANOS INICIAIS|1|0|MsgBox|0||||
+4|FileSelectFile|templateFileIniciais, , , Selecione o arquivo de modelo dos anos iniciais.|1|0|FileSelectFile|||||
+5|[MsgBox]|A seguir`, selecione a planilha MODELO - ANOS FINAIS|1|0|MsgBox|0||||
+6|FileSelectFile|templateFileFinais, , , Selecione o arquivo de modelo dos anos finais.|1|0|FileSelectFile|||||
+7|[MsgBox]|A seguir`, selecione a pasta destino para criar as planilhas de cada turma|1|0|MsgBox|0||||
+8|FileSelectFolder|outputFolder, D:\Users\felipe.jose\Desktop\macros, , Selecione a pasta destino para as planilhas das turmas.|1|0|FileSelectFolder|||||
+9|[LoopStart]|classesIniciais`, index`, class|1|0|For|||||
+10|FileCopy|%templateFileIniciais%, %outputFolder%\%class%.xlsx|1|0|FileCopy|||||
+11|[LoopEnd]|LoopEnd|1|0|Loop|||||
+12|[LoopStart]|classesFinais`, index`, class|1|0|For|||||
+13|FileCopy|%templateFileFinais%, %outputFolder%\%class%.xlsx|1|0|FileCopy|||||
+14|[LoopEnd]|LoopEnd|1|0|Loop|||||
+15|[MsgBox]|Processo finalizado! Navegue até a pasta destino para conferir.|1|0|MsgBox|0||||
+
