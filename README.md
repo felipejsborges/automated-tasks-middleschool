@@ -27,4 +27,7 @@ In this repo, I save some codes that I created to automate tasks at my job as a 
 <hr>
 
 by Felipe Borges<br>
-[LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)
+[LinkedIn](https://www.linkedin.com/in/felipejsborges) | [GitHub](https://github.com/felipejsborges)<br>
+With great help of Andre Pinto<br>
+[LinkedIn](https://www.linkedin.com/in/pinto-andre/) | [GitHub](https://github.com/andre6293)<br>
+
