@@ -1,5 +1,5 @@
 <div align="center">	
-	<img src="./.github/vba.jpg" alt="vba" width="100%"/>	
+	<img src="./.github/vba.jpg" alt="vba" width="50%"/>	
 </div>
 
 <div align="center">
