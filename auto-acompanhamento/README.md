@@ -30,7 +30,7 @@ Obs.: I made it very quickly because I already have a program for a similar task
 <hr>
 
 ### Look at the final result 📺
-I created a [video in Portuguese-BR]() that I show this program and the another one used in the similar task. Watch it!
+I created a [video in Portuguese-BR](https://www.youtube.com/watch?v=wkH7Zp7cqhc) that I show this program and the another one used in the similar task. Watch it!
 <hr>
 
 by Felipe Borges<br>
