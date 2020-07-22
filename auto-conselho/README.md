@@ -14,10 +14,9 @@ A program to automate the digital part of a class council of a middle school.
 1. Superiors sends me an Excel workbook template
 2. I have to create one workbook for each class
 3. I fill it with school name, class, year, teacher's name and students information (name and birthday)
-4. Teachers fill notes and observations during next two months
+4. Teachers fill grades and observations during next two months
 5. I print every filled worksheets
-6. Happens the council with students, teachers and some parents
-7. I generate a school report for each student and print it to be delivered at Parents Meeting
+6. I generate a school report for each student and print it to be delivered at Parents Meeting
 <hr>
 
 ### When I started to work in it, we had to 🛠️
