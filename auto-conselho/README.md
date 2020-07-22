@@ -4,6 +4,7 @@
 
 <div align="center">
 	<h1>Auto Conselho 📄</h1>	
+	<a href="../">Back previous page</a>
 </div>
 
 ### What is? 🤔
