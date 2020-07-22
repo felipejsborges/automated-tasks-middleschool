@@ -39,7 +39,7 @@ A program to automate the digital part of a class council of a middle school.
 <hr>
 
 ### Look at the final result 📺
-I created a [video in Portuguese-BR]() that I show this program and another one used in a similar task. Watch it!
+I created a [video in Portuguese-BR](https://www.youtube.com/watch?v=wkH7Zp7cqhc) that I show this program and another one used in a similar task. Watch it!
 <hr>
 
 by Felipe Borges<br>
