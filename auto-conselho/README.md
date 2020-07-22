@@ -4,7 +4,7 @@
 
 <div align="center">
 	<h1>Auto Conselho 📄</h1>	
-	<a href="../">Back previous page</a>
+	<a href="https://github.com/felipejsborges/automated-tasks-middleschool">Back previous page</a>
 </div>
 
 ### What is? 🤔
