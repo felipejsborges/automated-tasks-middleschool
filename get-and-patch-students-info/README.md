@@ -12,13 +12,13 @@ Two scripts to get data of a system and update what we want.
 <hr>
 
 ### How does this activities works? ⚙️
-1. Check students documents of the entire school (~870 students) with our intern database
+1. Check documents of the entire school (~870 students) in our local database.
 2. Loot at the city's and state's system, checking students documents with our database. City's system provides us a database with all students documents, so we can check it. But state's system does not. So we have to search of each student, open them information and check the document.
-3. Update document of each student that is wrong.
+3. Update any wrong information.
 <hr>
 
 ### What does this program do? 🤖
-- Get, of state's system, all documents of each student automatically (~1min for all students of the school)
+- Get, of state's system, all documents of each student automatically (~1min for all students of the school).
 - Update information we need, using a BOT. Very quickly and with less chance of errors.
 <hr>
 
