@@ -4,7 +4,7 @@
 
 <div align="center">
 	<h1>Auto Acompanhamento 📄</h1>	
-	<a href="https://github.com/felipejsborges/automated-tasks-middleschool">Back previous page</a>
+	<a href="https://github.com/felipejsborges/automated-tasks-middleschool/tree/master/auto-acompanhamento">Back previous page</a>
 </div>
 
 ### What is? 🤔
