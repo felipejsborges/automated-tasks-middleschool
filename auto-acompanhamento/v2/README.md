@@ -26,7 +26,7 @@ Teachers does not need to fill the sheets anymore (like they do when using [v1](
 <hr>
 
 ### Look at the final result 📺
-I created a [video in Portuguese-BR]() that I show more details. Watch it!
+I created a [video in Portuguese-BR](https://www.youtube.com/watch?v=gM1uweHvJsQ) that I show more details. Watch it!
 <hr>
 
 by Felipe Borges<br>
